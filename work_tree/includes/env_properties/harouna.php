@@ -2,7 +2,7 @@
 
 
 //configuration générale
-$BASE_URL       = "http://crudmongo.local/";
+$BASE_URL       = "http://mongodockertest.local/mongo-docker-php7";
 $ENVIRONMENT="development";
 
 
